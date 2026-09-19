@@ -40,6 +40,7 @@ The analysis was performed using **Python, SQL, and Tableau** to transform raw e
 
 ## 📂 Dataset
 Dataset source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 The project uses the **Olist Brazilian E-Commerce Public Dataset**, containing information about customers, orders, order items, payments, reviews, and products.
 
 ### Main Tables
@@ -109,6 +110,8 @@ An interactive dashboard was created containing:
 - Payment Method Distribution
 - Review Score Distribution
 - Delivery Performance
+
+<img width="1347" height="782" alt="image" src="https://github.com/user-attachments/assets/26cfe5aa-88ad-4240-bdcb-0332c4b435fe" />
 
 ---
 
