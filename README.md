@@ -39,7 +39,7 @@ The analysis was performed using **Python, SQL, and Tableau** to transform raw e
 ---
 
 ## 📂 Dataset
-
+Dataset source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 The project uses the **Olist Brazilian E-Commerce Public Dataset**, containing information about customers, orders, order items, payments, reviews, and products.
 
 ### Main Tables
